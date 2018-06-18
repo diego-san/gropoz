@@ -59,6 +59,34 @@ footer{
 
     }
 }
+
+@media screen and (max-width: 700px){
+    .parallax-text-sub{
+        color: #f8f9fa;
+        font-family: 'Montserrat', sans-serif ;
+        font-weight: normal;
+        font-size: 20pt;
+
+    }
+}
+@media screen and (min-width: 701px) {
+    .parallax-text-sub {
+        color: #f8f9fa;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: normal;
+        font-size: 25pt;
+
+    }
+}
+@media screen and (min-width: 995px) {
+    .parallax-text-sub {
+        color: #f8f9fa;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: normal;
+        font-size: 30pt;
+
+    }
+}
 .parallax-boton{
 
     position: center;
@@ -74,6 +102,34 @@ footer{
 
 /*secciones----------*/
 
-.secciones{
-    height: 100vh;
+
+
+
+@media screen and (max-width: 760px){
+    .secciones{
+        height: 80vh;
+    }
 }
+
+@media screen and (min-width: 761px){
+    .secciones{
+        height: 100vh;
+    }
+}
+
+@media screen and (max-width: 760px){
+    .sec-2-img{
+        margin-top: 60px;
+
+    }
+}
+
+@media screen and (min-width: 761px){
+    .sec-2-img{
+        margin-top: 100px;
+
+    }
+}
+
+
+
