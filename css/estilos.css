@@ -133,3 +133,63 @@ footer{
 
 
 
+/*index2---*/
+
+
+    .editmenu{
+        background:#1b1e21;
+        opacity: 0.6;
+        filter: alpha(opacity=60);
+
+
+
+    }
+
+.color-index2{
+    color: #ffffff;
+    background: transparent;
+    border: 0px;
+    font-size: 23px;
+
+}
+
+.color-index2:hover{
+    color: #c8cbcf;
+}
+
+.logo-index2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+}
+
+.titulo-index2{
+    color: #ffffff;
+    margin-top: 50px;
+}
+
+
+/*bloque dos*/
+
+.bloque2{
+    padding: 10px;
+    background: transparent;
+    margin-top: 50px;
+
+
+}
+
+.bloque2-into{
+    height: 400px;
+    padding: 5px;
+    background-color: rgba(18, 22, 25, 0.66);
+    color:#000;
+    border-radius: 5px ;
+
+}
+
+.bloque2-into-1{
+    color: #ffffff;
+    margin-top: 10px;
+
+}
+
